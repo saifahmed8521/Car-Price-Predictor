@@ -27,11 +27,3 @@ def predict():
 
 if st.button('Predict'):
     predict()
-
-# if car_model.find(companies):
-#     return car_models
-
-# def ShowModel():
-#     for model in car_model:
-#         model.find(select_company)
-#         return model
